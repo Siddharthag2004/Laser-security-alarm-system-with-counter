@@ -1,1 +1,1 @@
-# Laser security-alarm-system-with-counter
+# Laser security alarm system with counter

@@ -26,7 +26,7 @@ The **Laser Security Alarm System with Counter** is designed to provide enhanced
 - [License](#license)
 - [Additional Sections](#additional-sections)
 
-## How to Install and Run the Project
+##  Installation
 
 ### Hardware Setup
 1. **Components Procurement**: Ensure all components listed in the  [Components Required](#components-required) section are available.

@@ -18,7 +18,7 @@ The **Laser Security Alarm System with Counter** is designed to provide enhanced
 
 - [Project Title](#project-title)
 - [Project Description](#project-description)
-- [How to Install and Run the Project](#how-to-install-and-run-the-project)
+- [Installation](#installation)
 - [How to Use the Project](#how-to-use-the-project)
 - [Components Required](#components-required)
 - [Working Principle](#working-principle)
@@ -28,21 +28,9 @@ The **Laser Security Alarm System with Counter** is designed to provide enhanced
 
 ## How to Install and Run the Project
 
-### Prerequisites
-
-- **Arduino Uno**
-- **Breadboard**
-- **Laser Light Source (5mW)**
-- **IR Sensors**
-- **Light Dependent Resistor (LDR)**
-- **BC547 Transistor**
-- **16x1 LCD Display**
-- **LEDs**
-- **Buzzer**
-- **Switches**
-- **Jumper Wires**
-- **100K ohm Resistor**
-
+### Hardware Setup
+1. **Components Procurement**: Ensure all components listed in the  [Components Required](#components-required) section are available.
+2. **Circuit Assembly**: Assemble the circuit according to the provided diagram. Pay special attention to the positioning of the laser source, LDR, and IR sensors.
 ### Installation Steps
 
 1. **Clone the Repository**:

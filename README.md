@@ -24,7 +24,7 @@ The **Laser Security Alarm System with Counter** is designed to provide enhanced
 - [Working Principle](#working-principle)
 - [Credits](#credits)
 - [License](#license)
-- [Additional Sections](#additional-sections)
+- [References](#References)
 
 ##  Installation
 
@@ -54,3 +54,12 @@ The **Laser Security Alarm System with Counter** is designed to provide enhanced
 - 5mW Laser light source
 - IR Sensors
 - Switch and Jumper Wires
+
+## License 
+
+This project is licensed under the MIT License.
+
+## References
+- [BC547 Transistor](https://www.theengineeringprojects.com/2017/06/introduction-to-bc547.html)
+- [Laser Light Source](https://makerbazar.in/products/kids-toys-laser-light)
+- [LDR Specifications](https://techdelivers.com/LDR-5mm-Photocell)

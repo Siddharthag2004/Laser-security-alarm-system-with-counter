@@ -12,7 +12,7 @@ The **Laser Security Alarm System with Counter** is designed to provide enhanced
 - **Intrusion Detection**: Detects any interruptions in the laser beam and triggers an alarm via a buzzer.
 - **Visitor Counter**: Tracks the number of intruders or people entering the secured area using IR sensors and displays the count on an LCD.
 - **Customizable**: The system can be adjusted for different security zones by varying the number of lasers and sensors.
-- **Applications**: Suitable for homes, offices, warehouses, museums, and sensitive data centers.
+- **Applications**: Suitable for homes, offices, warehouses, museums, and sensitive data centres.
 
 ## Table of Contents
 
@@ -52,11 +52,15 @@ The **Laser Security Alarm System with Counter** is designed to provide enhanced
 4. **Intrusion Detection**:
    - When someone crosses the laser beam, the alarm will sound, and the LCD will display the current count of intrusions. The LED will light up, indicating that the laser beam was interrupted.
 5. **Monitoring the Counter**:
-   - The LCD will continuously update, showing the number of people or objects that have crossed the beam. This count helps monitor activity in the secured are
+   - The LCD will continuously update, showing the number of people or objects that have crossed the beam. This count helps monitor activity in the secured area.
 6. **Resetting the System**:
    - To reset the system, simply reset the Arduino board using the reset button or disconnect and reconnect the power source.
 7. **Understanding the Alerts**:
    - The system will emit a sound via the buzzer whenever the laser beam is interrupted, allowing you to quickly identify potential intrusions.
+## Important Tips: 
+- Ensure the laser beam is always aligned with the LDR for accurate detection.
+- Keep the system in a location where the laser and LDR won't be accidentally moved or misaligned.
+By following these steps, you can effectively use the Laser Security Alarm System with Counter to monitor and secure any space!
 
 ## Components Required
 
@@ -71,6 +75,12 @@ The **Laser Security Alarm System with Counter** is designed to provide enhanced
 - 5mW Laser light source
 - IR Sensors
 - Switch and Jumper Wires
+
+## Working Principle
+
+The Laser Security Alarm System with Counter works by using a laser beam directed at a Light Dependent Resistor (LDR). Under normal conditions, the LDR receives the laser light, and its resistance remains low. When an object interrupts the beam, the LDR’s resistance increases, and this change is detected by the Arduino microcontroller.
+
+Upon detection, the Arduino triggers an alarm using a buzzer and lights up an LED, indicating a breach. At the same time, the system increments and displays the count of intrusions on the LCD screen. Once the object clears, the system resets, ready for the next interruption. This process ensures continuous monitoring and counting of intrusions in real-time.
 
 ## License 
 

@@ -22,7 +22,6 @@ The **Laser Security Alarm System with Counter** is designed to provide enhanced
 - [How to Use the Project](#how-to-use-the-project)
 - [Components Required](#components-required)
 - [Working Principle](#working-principle)
-- [Credits](#credits)
 - [License](#license)
 - [References](#References)
 

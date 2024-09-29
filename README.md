@@ -48,3 +48,8 @@ The **Laser Security Alarm System with Counter** is designed to provide enhanced
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/laser-security-alarm.git
+File -> Open -> Navigate to laser_security_alarm.ino
+Tools -> Board -> Arduino Uno
+Tools -> Port -> Select the appropriate port
+Sketch -> Upload
+Arduino IDE -> Tools -> Manage Libraries -> Search for "LiquidCrystal" -> Install

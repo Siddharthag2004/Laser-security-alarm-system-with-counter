@@ -33,5 +33,24 @@ The **Laser Security Alarm System with Counter** is designed to provide enhanced
 2. **Circuit Assembly**: Assemble the circuit according to the provided diagram. Pay special attention to the positioning of the laser source, LDR, and IR sensors.
 ### Software Setup
 
-1. **Clone the Repository**:
+1. **Writing the Arduino Code**:
+   - Open the Arduino IDE on your computer.
+   - Copy and paste the provided Arduino code into the IDE.
+2. **Uploading the Code:**:
+   - Connect your Arduino Uno board to your computer using a USB cable.
+   - Select the correct board and port from the Arduino IDE under Tools.
+   - Click on the "Upload" button to transfer the code to your Arduino board.
 
+## Components Required
+
+- Breadboard
+- BC547 Transistor
+- Arduino Uno and cable
+- 16x1 LCD Display
+- Light Emitting Diode (LED)
+- 100K ohm Resistor
+- 5V Buzzer
+- Light Dependent Resistor (LDR)
+- 5mW Laser light source
+- IR Sensors
+- Switch and Jumper Wires

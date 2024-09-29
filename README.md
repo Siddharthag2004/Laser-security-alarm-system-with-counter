@@ -31,14 +31,7 @@ The **Laser Security Alarm System with Counter** is designed to provide enhanced
 ### Hardware Setup
 1. **Components Procurement**: Ensure all components listed in the  [Components Required](#components-required) section are available.
 2. **Circuit Assembly**: Assemble the circuit according to the provided diagram. Pay special attention to the positioning of the laser source, LDR, and IR sensors.
-### Installation Steps
+### Software Setup
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/laser-security-alarm.git
-2. **Set Up the Circuit: Follow the circuit diagram provided in the /diagrams folder**:
-File -> Open -> Navigate to laser_security_alarm.ino
-Tools -> Board -> Arduino Uno
-Tools -> Port -> Select the appropriate port
-Sketch -> Upload
-Arduino IDE -> Tools -> Manage Libraries -> Search for "LiquidCrystal" -> Install
+

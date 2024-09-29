@@ -48,6 +48,7 @@ The **Laser Security Alarm System with Counter** is designed to provide enhanced
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/laser-security-alarm.git
+2. **Set Up the Circuit: Follow the circuit diagram provided in the /diagrams folder**:
 File -> Open -> Navigate to laser_security_alarm.ino
 Tools -> Board -> Arduino Uno
 Tools -> Port -> Select the appropriate port
